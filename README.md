@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RoshanDasan
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning MERN stack
-- 💞️ I’m looking to collaborate on Front-End
+- 💞️ I’m looking to collaborate on Back-End
 - 📫 How to reach me edroshan2001@gmail.com 
 
 <!---
