@@ -7,7 +7,7 @@ I'm a firm believer in the power of technology to shape the world and improve li
 Key Skills
 
   
-    Programming Languages:
+   Programming Languages:
         Java script
         Type script
   
