@@ -6,9 +6,9 @@ About Me
 I'm a firm believer in the power of technology to shape the world and improve lives. I constantly seek opportunities to expand my knowledge and skills while working on exciting projects that push the boundaries of what's possible. With a strong foundation in <your area of expertise>, I strive to create elegant and efficient solutions to real-world problems.
 Key Skills
 
-Programming Languages:
-    Java script
-    Type script
+  Programming Languages:
+      Java script
+      Type script
 Frameworks and Libraries:
     React
     Express
