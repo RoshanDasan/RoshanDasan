@@ -33,4 +33,4 @@ Let's Build Something Amazing Together!
 I'm passionate about using technology to create innovative solutions. If you have an exciting project or opportunity, I'd love to hear about it! Let's collaborate and make a positive impact together. Feel free to explore my repositories and reach out to me. Let's build something amazing!
 License
 
-The projects in this GitHub profile are licensed under the MIT License. Feel free to explore, use, and contribute to the code.
+Feel free to explore, use, and contribute to the codes.
