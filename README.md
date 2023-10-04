@@ -4,4 +4,3 @@ Welcome to my GitHub profile! I'm Roshan Dasan, a passionate software developer 
 
 Feel free to explore, use, and contribute to the codes.
 
-    javascript
